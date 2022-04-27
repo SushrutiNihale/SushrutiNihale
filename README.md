@@ -1,25 +1,19 @@
-<div id="container" align="center">
-  <div id="header">
-    <img src="https://media.giphy.com/media/CNN0wj7wbwX9wRBQ8v/giphy.gif" width="100"/>
-  </div>
+### Hi! I am Sushruti Nihale! <br>
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/sushruti-nihale/">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"  alt="LinkedIn Badge" width="40"/>
-    </a>
-    <a href="https://twitter.com/sushruti_nihale">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Badge" width="40"/>
-    </a>
-  </div>
+<img src="https://media.giphy.com/media/CNN0wj7wbwX9wRBQ8v/giphy.gif" height="140" align="right"/>
 
-<!--   <img src="https://komarev.com/ghpvc/?username=SushrutiNihale&style=flat-square&color=blue" alt=""/> -->
-  
-<!--   <h1>
-    Hi!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1> -->
+Task driven and an innovative problem solver, I am building my skills as a Full Stack Web Developer with a focus on the MERN stack. I have previously worked as a Data Scientist for Anheuser-Busch Inbev creating practical and adaptable models that helped the firm make data driven decisions easily. Now looking forward to make an impact by leveraging these skills to make incredible websites.
 
-</div>
+### Let's connect! <br>
+
+<a href="https://www.linkedin.com/in/sushruti-nihale/" target = "_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"  alt="LinkedIn Badge" width="40">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/sushruti_nihale" target = "_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Badge" width="40">
+</a>
+
 
 ---
 
