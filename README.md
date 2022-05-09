@@ -45,9 +45,12 @@ Task driven and an innovative problem solver, I am building my skills as a Full 
 
 [![Sushruti's Stats](https://github-readme-stats.vercel.app/api?username=SushrutiNihale&theme=highcontrast&hide_rank=1&show_icons=1&count_private=1&hide=stars,issues&disable_animations=1)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ---
+---
 
-### :writing_hand: Blog Posts : -->
+### :writing_hand: Blog Posts :
+- [React-Redux Project : Cloning Nykaa](https://medium.com/@sushrutin6/react-redux-project-cloning-nykaa-f20b16f5983b "Blog Post 1")
+- [Faasos — Surprises Under Wraps](https://medium.com/@sushrutin6/faasos-surprises-under-wraps-3b9ccfda680e "Blog Post 2")
+- [Welcome to the world of Bewakoofi!](https://medium.com/@sushrutin6/welcome-to-the-world-of-bewakoofi-69c21c3747fa "Blog Post 3")
 
 <!--
 **SushrutiNihale/SushrutiNihale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
