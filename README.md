@@ -1,6 +1,6 @@
 ### Hi! I am Sushruti Nihale! <br>
 
-<img src="https://media.giphy.com/media/CNN0wj7wbwX9wRBQ8v/giphy.gif" height="140" align="right"/>
+<img src="https://media.giphy.com/media/CNN0wj7wbwX9wRBQ8v/giphy.gif" height="140" width="140" align="right"/>
 
 Task driven and an innovative problem solver, I am building my skills as a Full Stack Web Developer with a focus on the MERN stack. I have previously worked as a Data Scientist for Anheuser-Busch Inbev creating practical and adaptable models that helped the firm make data driven decisions easily. Now looking forward to make an impact by leveraging these skills to make incredible websites.
 
